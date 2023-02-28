@@ -13,7 +13,7 @@ public class GitHubPracticeTwo {
 	}
 	
 	public static void main (String[] args) {
-		String name = ahmed;
+		String name = "ahmed";
 		
 	}
 
